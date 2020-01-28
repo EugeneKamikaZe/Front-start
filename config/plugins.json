@@ -25,7 +25,7 @@
     "type": "js",
     "name": "jquery",
     "url": "./node_modules/jquery/dist/jquery.min.js",
-    "activated": false
+    "activated": true
   },
   {
     "type": "plugin",
